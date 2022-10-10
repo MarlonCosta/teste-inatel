@@ -1,4 +1,4 @@
-package br.com.inatel.testmarlon.persistance;
+package br.com.inatel.testmarlon.persistance.repositories;
 
 import br.com.inatel.testmarlon.core.entities.Quote;
 import br.com.inatel.testmarlon.core.entities.repositories.QuoteRepository;

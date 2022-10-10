@@ -1,4 +1,4 @@
-package br.com.inatel.testmarlon.persistance;
+package br.com.inatel.testmarlon.persistance.repositories;
 
 import br.com.inatel.testmarlon.persistance.entities.QuoteEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
